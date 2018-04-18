@@ -57,7 +57,7 @@ type JSONSchemaProps struct {
 }
 
 // JSON represents any valid JSON value.
-// These types are supported: bool, int64, float64, string, []interface{}, map[string]interface{} and nil.
+// These types are supported: bool, int64, uint64, float64, string, []interface{}, map[string]interface{} and nil.
 type JSON interface{}
 
 // JSONSchemaURL represents a schema url.
