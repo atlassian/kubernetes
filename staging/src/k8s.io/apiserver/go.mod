@@ -18,7 +18,7 @@ require (
 	github.com/go-openapi/jsonreference v0.19.3 // indirect
 	github.com/go-openapi/spec v0.19.3
 	github.com/gogo/protobuf v1.3.1
-	github.com/google/go-cmp v0.3.0
+	github.com/google/go-cmp v0.5.5
 	github.com/google/gofuzz v1.1.0
 	github.com/google/uuid v1.1.1
 	github.com/googleapis/gnostic v0.1.0
@@ -27,22 +27,21 @@ require (
 	github.com/hashicorp/golang-lru v0.5.1
 	github.com/mailru/easyjson v0.7.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/pquerna/cachecontrol v0.0.0-20171018203845-0dec1b30a021 // indirect
-	github.com/prometheus/client_golang v1.0.0
-	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4
-	github.com/sirupsen/logrus v1.4.2 // indirect
+	github.com/prometheus/client_golang v1.11.1
+	github.com/prometheus/client_model v0.2.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.4.0
 	go.etcd.io/etcd v0.0.0-20191023171146-3cf2f69b5738
 	go.uber.org/zap v1.10.0
-	golang.org/x/crypto v0.0.0-20190820162420-60c769a6c586
-	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	google.golang.org/grpc v1.26.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/square/go-jose.v2 v2.2.2
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 	gotest.tools v2.2.0+incompatible // indirect
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
